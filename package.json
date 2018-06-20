@@ -1,0 +1,22 @@
+{
+    "name": "Slots Status",
+    "version": "0.1",
+    "homepage": "",
+    "authors": [
+        "Bobby Roe <bobby.roe@igt.com>"
+    ],
+    "private": true,
+    "scripts": {
+        "start": "node slots && node repos",
+        "getdeps": "npm install html-to-json"
+    },
+    "repository": {
+        "type": "",
+        "url": ""
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+        "html-to-json": "^0.6.0"
+    }
+}

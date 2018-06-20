@@ -1,0 +1,131 @@
+{
+	"epics": [
+		{
+			"id": "GCD-6154",
+			"slug": "Big 5 Safari (KSG)",
+			"repo": "slot-big5safari",
+			"start_date": "2018-01-01"
+		},
+		{
+			"id": "GCD-9735",
+			"slug": "3X2X Super 7S Free Games with DUG Mystery JP",
+			"repo": "slot-threetimestwotimessupersevensfreegames",
+			"start_date": "2018-01-01"
+		},
+		{
+			"id": "GCD-8763",
+			"slug": "Desert Spirit",
+			"repo": "slot-desertspirit",
+			"start_date": "2018-01-01"
+		},
+		{
+			"id": "GCD-9855",
+			"slug": "WOF Triple Stars with Spitfire Multipliers & DUG Mystery JP",
+			"repo": "slot-woftriplestars",
+			"start_date": "2018-01-01"
+		},
+		{
+			"id": "GCD-10435",
+			"slug": "Gold & Dragon",
+			"repo": "slot-goldanddragon",
+			"start_date": "2018-01-01"
+		},
+		{
+			"id": "GCD-10648",
+			"slug": "Jackpot 7s Free Games with DUG Mystery JP",
+			"repo": "slot-jackpot7sfreegames",
+			"start_date": "2018-05-16"
+		},
+		{
+			"id": "GCD-12105",
+			"slug": "The Voice",
+			"repo": "slot-thevoice",
+			"start_date": "2018-05-11"
+		},
+		{
+			"id": "GCD-8762",
+			"slug": "Money Storm",
+			"repo": "slot-moneystorm",
+			"start_date": "2018-01-01"
+		},
+		{
+			"id": "GCD-10179",
+			"slug": "Hot Roll Double Gold (KSG)",
+			"repo": "slot-hotrolldoublegold",
+			"start_date": "2018-06-04"
+		},
+		{
+			"id": "GCD-11827",
+			"slug": "Wild Riches Arctic King",
+			"repo": "",
+			"start_date": "2018-05-16"
+		},
+		{
+			"id": "GCD-12122",
+			"slug": "WOF Triple Wild Diamond",
+			"repo": "",
+			"start_date": "2018-05-16"
+		},
+		{
+			"id": "GCD-10364",
+			"slug": "Sphinx 3D",
+			"repo": "",
+			"start_date": "2018-05-16"
+		},
+		{
+			"id": "",
+			"slug": "TBD",
+			"repo": "",
+			"start_date": "2018-05-16"
+		},
+		{
+			"id": "GCD-8764",
+			"slug": "Secrets of Stonehenge with Side Bet JP",
+			"repo": "",
+			"start_date": "2018-05-16"
+		},
+		{
+			"id": "",
+			"slug": "TBD",
+			"repo": "",
+			"start_date": "2018-05-16"
+		},
+		{
+			"id": "GCD-11869",
+			"slug": "Wan Shi Ru Yi",
+			"repo": "",
+			"start_date": "2018-05-16"
+		},
+		{
+			"id": "",
+			"slug": "TBD",
+			"repo": "",
+			"start_date": "2018-05-16"
+		},
+		{
+			"id": "GCD-12250",
+			"slug": "WOF New Orleans",
+			"repo": "",
+			"start_date": "2018-05-16"
+		},
+		{
+			"id": "",
+			"slug": "TBD",
+			"repo": "",
+			"start_date": "2018-05-16"
+		},
+		{
+			"id": "GCD-",
+			"slug": "Little Green Men",
+			"repo": "",
+			"start_date": "2018-05-16"
+		},
+		{
+			"id": "GCD-12251",
+			"slug": "Wild Riches Ruby Panda",
+			"repo": "",
+			"start_date": "2018-05-16"
+		}
+		
+	]
+}
