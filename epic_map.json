@@ -1,6 +1,18 @@
 {
 	"epics": [
 		{
+			"id": "GCD-7756",
+			"slug": "Mega Vault with DUG Mystery JP",
+			"repo": "slot-megavault",
+			"start_date": "2018-01-01"
+		},
+		{
+			"id": "GCD-8372",
+			"slug": "WOF Triple Cash with DUG Mystery JP",
+			"repo": "slot-woftriplecash",
+			"start_date": "2018-01-01"
+		},
+		{
 			"id": "GCD-6154",
 			"slug": "Big 5 Safari (KSG)",
 			"repo": "slot-big5safari",
@@ -57,8 +69,8 @@
 		{
 			"id": "GCD-11827",
 			"slug": "Wild Riches Arctic King",
-			"repo": "",
-			"start_date": "2018-05-16"
+			"repo": "slot-wildrichesarcticking",
+			"start_date": "2018-07-06"
 		},
 		{
 			"id": "GCD-12122",
@@ -73,12 +85,6 @@
 			"start_date": "2018-05-16"
 		},
 		{
-			"id": "",
-			"slug": "TBD",
-			"repo": "",
-			"start_date": "2018-05-16"
-		},
-		{
 			"id": "GCD-8764",
 			"slug": "Secrets of Stonehenge with Side Bet JP",
 			"repo": "",
@@ -86,7 +92,13 @@
 		},
 		{
 			"id": "",
-			"slug": "TBD",
+			"slug": "Triple Hot Ice with DUG Mystery JP",
+			"repo": "",
+			"start_date": "2018-05-16"
+		},
+		{
+			"id": "",
+			"slug": "WOF New Orleans",
 			"repo": "",
 			"start_date": "2018-05-16"
 		},
@@ -98,19 +110,19 @@
 		},
 		{
 			"id": "",
-			"slug": "TBD",
+			"slug": "I Heart Jackpots Double Classic 7s",
 			"repo": "",
 			"start_date": "2018-05-16"
 		},
 		{
-			"id": "GCD-12250",
-			"slug": "WOF New Orleans",
+			"id": "GCD-",
+			"slug": "Mistress of Egypt",
 			"repo": "",
 			"start_date": "2018-05-16"
 		},
 		{
 			"id": "",
-			"slug": "TBD",
+			"slug": "Triple Lucky Four Leaf Clover with DUG Mystery JP",
 			"repo": "",
 			"start_date": "2018-05-16"
 		},
@@ -123,6 +135,24 @@
 		{
 			"id": "GCD-12251",
 			"slug": "Wild Riches Ruby Panda",
+			"repo": "",
+			"start_date": "2018-05-16"
+		},
+		{
+			"id": "GCD-",
+			"slug": "Little Green Men",
+			"repo": "",
+			"start_date": "2018-05-16"
+		},
+		{
+			"id": "GCD-",
+			"slug": "Little Green Men",
+			"repo": "",
+			"start_date": "2018-05-16"
+		},
+		{
+			"id": "GCD-",
+			"slug": "Little Green Men",
 			"repo": "",
 			"start_date": "2018-05-16"
 		}

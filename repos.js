@@ -23,7 +23,7 @@ let devs = [	{
 		bb_names: ["robertleisleigt"]
 	}, {
 		jira_name: "pickerele",
-		bb_names: ["docsplendid", "emmettp"]
+		bb_names: ["docsplendid", "emmettp", "EMMETT PICKEREL"]
 	}, {
 		jira_name: "bobby.roe",
 		bb_names: ["Bobby Roe", "Bobby Rpe", "roer"]
@@ -145,14 +145,14 @@ function requestChangesets (repo_obj) {
 
 function parseChangesetData (sets) {
 	let dev_changesets = [];
-
+	let message_list = [];
 	sets.forEach( (commit) => {
 		
 		commit.author = fixName(commit.author);
 
 		let new_branch = {};
-		// let day = new Date(commit.timestamp).getDate();
 		let is_merge = /merge/i.test(commit.message);
+		let is_dupe = message_list.indexOf(commit.message) !== -1;
 
 		// find the existing branch entry ...
 		let game_dev = dev_changesets.find( (b) => {
@@ -172,10 +172,11 @@ function parseChangesetData (sets) {
 			dev_changesets.push(new_dev);
 		} else {
 
-			if (is_merge === false && names_blacklist.includes(commit.author) === false) {
-				// console.log(commit.author, "\n", commit.message);
+			if (is_merge === false && names_blacklist.includes(commit.author) === false && is_dupe === false) {
+				// console.log(commit.author, ": ", commit);
 				// console.log("\n --------------");
 
+				message_list.push(commit.message);
 				game_dev.commits.push({
 					message: commit.message,
 					timestamp: commit.timestamp,
@@ -184,6 +185,7 @@ function parseChangesetData (sets) {
 			}
 		}
 	});
+	// console.log(message_list);
 
 	function fixName (n) {
 

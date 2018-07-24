@@ -86,7 +86,7 @@ function getSlotsData() {
 
 			htmlToJson.parse(data, function () {
 
-				return this.map('td.confluenceTd:nth-child(13),th.confluenceTh:nth-child(13)', function($item) {
+				return this.map('td.confluenceTd:last-child,th.confluenceTh:last-child', function($item) {
 					
 					let item = $item.text().match(/\d+\/\d+\/\d+/);
 					if (item == null) {
@@ -109,7 +109,7 @@ function getSlotsData() {
 
 			htmlToJson.parse(data, function () {
 
-				return this.map('td.confluenceTd:nth-child(12),th.confluenceTh:nth-child(12)', function($item) {
+				return this.map('td.confluenceTd:nth-last-child(2),th.confluenceTh:nth-last-child(2)', function($item) {
 					
 					let item = $item.text().match(/\d+\/\d+\/\d+/);
 					if (item == null) {

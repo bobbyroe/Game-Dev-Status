@@ -1,27 +1,47 @@
 {
     "projects": [
         {
+            "id": "GCD-7756",
+            "repo": "slot-megavault",
+            "slug": "Mega Vault with DUG Mystery JP ",
+            "devs": [],
+            "num_open_issues": 0,
+            "deploy_date": "YELLOW ",
+            "launch_date": "At risk",
+            "status_string": "YELLOW :\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mMega Vault with DUG Mystery JP \u001b[0m (At risk)",
+            "start_date": "2018-01-01"
+        },
+        {
+            "id": "GCD-8372",
+            "repo": "slot-woftriplecash",
+            "slug": "WOF Triple Cash with DUG Mystery JP ",
+            "devs": [],
+            "num_open_issues": 0,
+            "deploy_date": "RED ",
+            "launch_date": "Milestone date missed",
+            "status_string": "RED :\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mWOF Triple Cash with DUG Mystery JP \u001b[0m (Milestone date missed)",
+            "start_date": "2018-01-01"
+        },
+        {
             "id": "GCD-6154",
             "repo": "slot-big5safari",
             "slug": "Big 5 Safari (KSG)",
             "devs": [],
             "num_open_issues": 0,
-            "deploy_date": "7/3",
-            "launch_date": "7/3",
-            "status_string": "7/3:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mBig 5 Safari (KSG)\u001b[0m (7/3)",
+            "deploy_date": "Deploy Date",
+            "launch_date": "Scheduled DDI Launch",
+            "status_string": "Deploy Date:\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mBig 5 Safari (KSG)\u001b[0m (Scheduled DDI Launch)",
             "start_date": "2018-01-01"
         },
         {
             "id": "GCD-9735",
             "repo": "slot-threetimestwotimessupersevensfreegames",
             "slug": "3X2X Super 7S Free Games with DUG Mystery JP",
-            "devs": [
-                "pickerele"
-            ],
-            "num_open_issues": 5,
-            "deploy_date": "6/25",
-            "launch_date": "7/17",
-            "status_string": "6/25:\t\t \u001b[0;33m5\u001b[0m,\t \u001b[0;36m3X2X Super 7S Free Games with DUG Mystery JP\u001b[0m (7/17)",
+            "devs": [],
+            "num_open_issues": 0,
+            "deploy_date": "5/29",
+            "launch_date": "6/5",
+            "status_string": "5/29:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36m3X2X Super 7S Free Games with DUG Mystery JP\u001b[0m (6/5)",
             "start_date": "2018-01-01"
         },
         {
@@ -29,25 +49,21 @@
             "repo": "slot-desertspirit",
             "slug": "Desert Spirit ",
             "devs": [],
-            "num_open_issues": 5,
-            "deploy_date": "7/10",
-            "launch_date": "7/24",
-            "status_string": "7/10:\t\t \u001b[0;33m5\u001b[0m,\t \u001b[0;36mDesert Spirit \u001b[0m (7/24)",
+            "num_open_issues": 0,
+            "deploy_date": "6/4",
+            "launch_date": "6/19",
+            "status_string": "6/4:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mDesert Spirit \u001b[0m (6/19)",
             "start_date": "2018-01-01"
         },
         {
             "id": "GCD-9855",
             "repo": "slot-woftriplestars",
             "slug": "WOF Triple Stars with Spitfire Multipliers & DUG Mystery JP",
-            "devs": [
-                "richard.kutchera",
-                "jason.miller",
-                "robert.leisle"
-            ],
-            "num_open_issues": 9,
-            "deploy_date": "7/17",
-            "launch_date": "8/21",
-            "status_string": "7/17:\t\t \u001b[0;33m9\u001b[0m,\t \u001b[0;36mWOF Triple Stars with Spitfire Multipliers & DUG Mystery JP\u001b[0m (8/21)",
+            "devs": [],
+            "num_open_issues": 0,
+            "deploy_date": "6/26",
+            "launch_date": "7/3",
+            "status_string": "6/26:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mWOF Triple Stars with Spitfire Multipliers & DUG Mystery JP\u001b[0m (7/3)",
             "start_date": "2018-01-01"
         },
         {
@@ -56,12 +72,13 @@
             "slug": "Gold & Dragon",
             "devs": [
                 "grantj",
+                "greg.hogdal",
                 "Gwendolyn.Hart"
             ],
-            "num_open_issues": 9,
-            "deploy_date": "8/14",
-            "launch_date": "8/27",
-            "status_string": "8/14:\t\t \u001b[0;33m9\u001b[0m,\t \u001b[0;36mGold & Dragon\u001b[0m (8/27)",
+            "num_open_issues": 11,
+            "deploy_date": "7/3",
+            "launch_date": "7/17",
+            "status_string": "7/3:\t\t \u001b[1;91m11\u001b[0m,\t \u001b[0;36mGold & Dragon\u001b[0m (7/17)",
             "start_date": "2018-01-01"
         },
         {
@@ -69,12 +86,14 @@
             "repo": "slot-jackpot7sfreegames",
             "slug": "Jackpot 7s Free Games with DUG Mystery JP",
             "devs": [
-                "sotiri.karasoulos"
+                "sotiri.karasoulos",
+                "robert.leisle",
+                "Sandra.Jhee"
             ],
-            "num_open_issues": 9,
-            "deploy_date": "8/20",
-            "launch_date": "9/18",
-            "status_string": "8/20:\t\t \u001b[0;33m9\u001b[0m,\t \u001b[0;36mJackpot 7s Free Games with DUG Mystery JP\u001b[0m (9/18)",
+            "num_open_issues": 27,
+            "deploy_date": "7/17",
+            "launch_date": "7/31",
+            "status_string": "7/17:\t\t \u001b[1;91m27\u001b[0m,\t \u001b[0;36mJackpot 7s Free Games with DUG Mystery JP\u001b[0m (7/31)",
             "start_date": "2018-05-16"
         },
         {
@@ -83,20 +102,22 @@
             "slug": "The Voice",
             "devs": [],
             "num_open_issues": 0,
-            "deploy_date": "9/11",
-            "launch_date": "9/24",
-            "status_string": "9/11:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mThe Voice\u001b[0m (9/24)",
+            "deploy_date": "7/24",
+            "launch_date": "8/14",
+            "status_string": "7/24:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mThe Voice\u001b[0m (8/14)",
             "start_date": "2018-05-11"
         },
         {
             "id": "GCD-8762",
             "repo": "slot-moneystorm",
             "slug": "Money Storm ",
-            "devs": [],
-            "num_open_issues": 1,
-            "deploy_date": "9/17",
-            "launch_date": "10/1",
-            "status_string": "9/17:\t\t \u001b[0;33m1\u001b[0m,\t \u001b[0;36mMoney Storm \u001b[0m (10/1)",
+            "devs": [
+                "shuo-wei.chang"
+            ],
+            "num_open_issues": 5,
+            "deploy_date": "8/21",
+            "launch_date": "8/28",
+            "status_string": "8/21:\t\t \u001b[0;33m5\u001b[0m,\t \u001b[0;36mMoney Storm \u001b[0m (8/28)",
             "start_date": "2018-01-01"
         },
         {
@@ -104,24 +125,25 @@
             "repo": "slot-hotrolldoublegold",
             "slug": "Hot Roll Double Gold (KSG)",
             "devs": [
-                "abhinav.sagar"
+                "abhinav.sagar",
+                "Gwendolyn.Hart"
             ],
-            "num_open_issues": 1,
-            "deploy_date": "9/24",
-            "launch_date": "10/23",
-            "status_string": "9/24:\t\t \u001b[0;33m1\u001b[0m,\t \u001b[0;36mHot Roll Double Gold (KSG)\u001b[0m (10/23)",
+            "num_open_issues": 6,
+            "deploy_date": "8/27",
+            "launch_date": "9/11",
+            "status_string": "8/27:\t\t \u001b[0;33m6\u001b[0m,\t \u001b[0;36mHot Roll Double Gold (KSG)\u001b[0m (9/11)",
             "start_date": "2018-06-04"
         },
         {
             "id": "GCD-11827",
-            "repo": "",
+            "repo": "slot-wildrichesarcticking",
             "slug": "Wild Riches Arctic King",
             "devs": [],
             "num_open_issues": 0,
-            "deploy_date": "10/16",
-            "launch_date": "11/6",
-            "status_string": "10/16:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mWild Riches Arctic King\u001b[0m (11/6)",
-            "start_date": "2018-05-16"
+            "deploy_date": "9/18",
+            "launch_date": "9/25",
+            "status_string": "9/18:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mWild Riches Arctic King\u001b[0m (9/25)",
+            "start_date": "2018-07-06"
         },
         {
             "id": "GCD-12122",
@@ -129,9 +151,9 @@
             "slug": "WOF Triple Wild Diamond",
             "devs": [],
             "num_open_issues": 0,
-            "deploy_date": "10/30",
-            "launch_date": "11/27",
-            "status_string": "10/30:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mWOF Triple Wild Diamond\u001b[0m (11/27)",
+            "deploy_date": "9/24",
+            "launch_date": "10/9",
+            "status_string": "9/24:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mWOF Triple Wild Diamond\u001b[0m (10/9)",
             "start_date": "2018-05-16"
         },
         {
@@ -140,42 +162,31 @@
             "slug": "Sphinx 3D",
             "devs": [],
             "num_open_issues": 0,
-            "deploy_date": "11/16",
+            "deploy_date": "10/1",
+            "launch_date": "10/23",
+            "status_string": "10/1:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mSphinx 3D\u001b[0m (10/23)",
+            "start_date": "2018-05-16"
+        },
+        {
+            "id": "",
+            "repo": "",
+            "slug": "Triple Hot Ice with DUG Mystery JP",
+            "devs": [],
+            "num_open_issues": 0,
+            "deploy_date": "11/6",
+            "launch_date": "11/20",
+            "status_string": "11/6:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mTriple Hot Ice with DUG Mystery JP\u001b[0m (11/20)",
+            "start_date": "2018-05-16"
+        },
+        {
+            "id": "",
+            "repo": "",
+            "slug": "WOF New Orleans",
+            "devs": [],
+            "num_open_issues": 0,
+            "deploy_date": "11/27",
             "launch_date": "12/4",
-            "status_string": "11/16:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mSphinx 3D\u001b[0m (12/4)",
-            "start_date": "2018-05-16"
-        },
-        {
-            "id": "",
-            "repo": "",
-            "slug": "TBD",
-            "devs": [],
-            "num_open_issues": 0,
-            "deploy_date": "",
-            "launch_date": "12/17",
-            "status_string": ":\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mTBD\u001b[0m (12/17)",
-            "start_date": "2018-05-16"
-        },
-        {
-            "id": "GCD-8764",
-            "repo": "",
-            "slug": "Secrets of Stonehenge with Side Bet JP",
-            "devs": [],
-            "num_open_issues": 0,
-            "deploy_date": "12/10",
-            "launch_date": "",
-            "status_string": "12/10:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mSecrets of Stonehenge with Side Bet JP\u001b[0m ()",
-            "start_date": "2018-05-16"
-        },
-        {
-            "id": "",
-            "repo": "",
-            "slug": "TBD",
-            "devs": [],
-            "num_open_issues": 0,
-            "deploy_date": "",
-            "launch_date": "1/14",
-            "status_string": ":\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mTBD\u001b[0m (1/14)",
+            "status_string": "11/27:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mWOF New Orleans\u001b[0m (12/4)",
             "start_date": "2018-05-16"
         },
         {
@@ -184,31 +195,42 @@
             "slug": "Wan Shi Ru Yi",
             "devs": [],
             "num_open_issues": 0,
-            "deploy_date": "1/7",
-            "launch_date": "",
-            "status_string": "1/7:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mWan Shi Ru Yi\u001b[0m ()",
+            "deploy_date": "12/4",
+            "launch_date": "12/18",
+            "status_string": "12/4:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mWan Shi Ru Yi\u001b[0m (12/18)",
             "start_date": "2018-05-16"
         },
         {
             "id": "",
             "repo": "",
-            "slug": "TBD",
+            "slug": "I Heart Jackpots Double Classic 7s",
             "devs": [],
             "num_open_issues": 0,
-            "deploy_date": "",
-            "launch_date": "2/11",
-            "status_string": ":\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mTBD\u001b[0m (2/11)",
+            "deploy_date": "12/17",
+            "launch_date": "1/1",
+            "status_string": "12/17:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mI Heart Jackpots Double Classic 7s\u001b[0m (1/1)",
             "start_date": "2018-05-16"
         },
         {
-            "id": "GCD-12250",
+            "id": "GCD-",
             "repo": "",
-            "slug": "WOF New Orleans",
+            "slug": "Mistress of Egypt",
             "devs": [],
             "num_open_issues": 0,
-            "deploy_date": "2/4",
-            "launch_date": "2/26",
-            "status_string": "2/4:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mWOF New Orleans\u001b[0m (2/26)",
+            "deploy_date": "12/17",
+            "launch_date": "1/15",
+            "status_string": "12/17:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mMistress of Egypt\u001b[0m (1/15)",
+            "start_date": "2018-05-16"
+        },
+        {
+            "id": "",
+            "repo": "",
+            "slug": "Triple Lucky Four Leaf Clover with DUG Mystery JP",
+            "devs": [],
+            "num_open_issues": 0,
+            "deploy_date": "1/14",
+            "launch_date": "1/29",
+            "status_string": "1/14:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mTriple Lucky Four Leaf Clover with DUG Mystery JP\u001b[0m (1/29)",
             "start_date": "2018-05-16"
         },
         {
@@ -217,9 +239,9 @@
             "slug": "Little Green Men",
             "devs": [],
             "num_open_issues": 0,
-            "deploy_date": "2/19",
-            "launch_date": "3/12",
-            "status_string": "2/19:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mLittle Green Men\u001b[0m (3/12)",
+            "deploy_date": "1/29",
+            "launch_date": "2/12",
+            "status_string": "1/29:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mLittle Green Men\u001b[0m (2/12)",
             "start_date": "2018-05-16"
         },
         {
@@ -228,53 +250,9 @@
             "slug": "Wild Riches Ruby Panda",
             "devs": [],
             "num_open_issues": 0,
-            "deploy_date": "3/5",
-            "launch_date": "",
-            "status_string": "3/5:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mWild Riches Ruby Panda\u001b[0m ()",
-            "start_date": "2018-05-16"
-        },
-        {
-            "id": "",
-            "repo": "",
-            "slug": "TBD",
-            "devs": [],
-            "num_open_issues": 0,
-            "deploy_date": "",
-            "launch_date": "",
-            "status_string": ":\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mTBD\u001b[0m ()",
-            "start_date": "2018-05-16"
-        },
-        {
-            "id": "",
-            "repo": "",
-            "slug": "TBD",
-            "devs": [],
-            "num_open_issues": 0,
-            "deploy_date": "",
-            "launch_date": "",
-            "status_string": ":\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mTBD\u001b[0m ()",
-            "start_date": "2018-05-16"
-        },
-        {
-            "id": "",
-            "repo": "",
-            "slug": "TBD",
-            "devs": [],
-            "num_open_issues": 0,
-            "deploy_date": "",
-            "launch_date": "",
-            "status_string": ":\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mTBD\u001b[0m ()",
-            "start_date": "2018-05-16"
-        },
-        {
-            "id": "",
-            "repo": "",
-            "slug": "TBD",
-            "devs": [],
-            "num_open_issues": 0,
-            "deploy_date": "",
-            "launch_date": "",
-            "status_string": ":\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mTBD\u001b[0m ()",
+            "deploy_date": "2/11",
+            "launch_date": "2/26",
+            "status_string": "2/11:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mWild Riches Ruby Panda\u001b[0m (2/26)",
             "start_date": "2018-05-16"
         }
     ]
