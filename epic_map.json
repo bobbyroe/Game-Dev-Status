@@ -4,37 +4,43 @@
 			"id": "GCD-7756",
 			"slug": "Mega Vault with DUG Mystery JP",
 			"repo": "slot-megavault",
-			"start_date": "2018-01-01"
+			"start_date": "2018-01-01",
+			"is_deployed": "true"
 		},
 		{
 			"id": "GCD-8372",
 			"slug": "WOF Triple Cash with DUG Mystery JP",
 			"repo": "slot-woftriplecash",
-			"start_date": "2018-01-01"
+			"start_date": "2018-01-01",
+			"is_deployed": "true"
 		},
 		{
 			"id": "GCD-6154",
 			"slug": "Big 5 Safari (KSG)",
 			"repo": "slot-big5safari",
-			"start_date": "2018-01-01"
+			"start_date": "2018-01-01",
+			"is_deployed": "true"
 		},
 		{
 			"id": "GCD-9735",
 			"slug": "3X2X Super 7S Free Games with DUG Mystery JP",
 			"repo": "slot-threetimestwotimessupersevensfreegames",
-			"start_date": "2018-01-01"
+			"start_date": "2018-01-01",
+			"is_deployed": "true"
 		},
 		{
 			"id": "GCD-8763",
 			"slug": "Desert Spirit",
 			"repo": "slot-desertspirit",
-			"start_date": "2018-01-01"
+			"start_date": "2018-01-01",
+			"is_deployed": "true"
 		},
 		{
 			"id": "GCD-9855",
 			"slug": "WOF Triple Stars with Spitfire Multipliers & DUG Mystery JP",
 			"repo": "slot-woftriplestars",
-			"start_date": "2018-01-01"
+			"start_date": "2018-01-01",
+			"is_deployed": "true"
 		},
 		{
 			"id": "GCD-10435",

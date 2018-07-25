@@ -307,14 +307,18 @@ function render (parsed_sets) {
 	const YEL = "\033[0;33m";
 
 	let all_dates_string = "";
+	let all_months_string = "";
 	all_dates_array.forEach( (d) => { 
 		let msp = d.includes("M") ? "| " : "";
 		let fsp = d.includes("F") ? " |" : "";
 		all_dates_string += `${msp} ${d.substring(3,5)}${fsp}`; 
+		let month_numeral = all_months_string.includes(d.substring(0,2)) ? "  " : d.substring(0,2);
+		all_months_string += `${msp} ${month_numeral}${fsp}`; 
 	});
 
 	console.log("––––––––––––––––––––––––-\n");
 	console.log(`${slots_master_list[slind].status_string}`);
+	console.log(`\t\t\t ${all_months_string}`);
 	console.log(`\t\t\t ${all_dates_string}`);
 	parsed_sets.forEach( (developer) => {
 
@@ -349,7 +353,14 @@ let slind = 0;
 getSavedSlotsData().then( (slots_data) => {
 
 	slots_master_list = slots_data;
+
+	// find the index of the 1st not-yet-deployed slot
+	for (var i = 0, len = slots_master_list.length; i < len; i++) {
+		slind = i;
+		if (slots_master_list[i].is_deployed !== "true") { break; }
+	}
 	getChangesetsRecursive(slots_master_list[slind], num_sets);
+
 });
 
 

@@ -295,8 +295,8 @@ Promise.all([one, two, three]).then( (values) => {
 				deploy_date: ddate,
 				launch_date: rdate,
 				status_string: status_string,
-				start_date: proj.start_date
-
+				start_date: proj.start_date,
+				is_deployed: proj.is_deployed
 			};
 			export_data.projects.push(p);
 		}
