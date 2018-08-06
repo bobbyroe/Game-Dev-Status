@@ -77,13 +77,13 @@
             "repo": "slot-goldanddragon",
             "slug": "Gold & Dragon",
             "devs": [
-                "greg.hogdal",
-                "grantj"
+                "grantj",
+                "sotiri.karasoulos"
             ],
-            "num_open_issues": 9,
+            "num_open_issues": 10,
             "deploy_date": "7/3",
             "launch_date": "7/17",
-            "status_string": "7/3:\t\t \u001b[0;33m9\u001b[0m,\t \u001b[0;36mGold & Dragon\u001b[0m (7/17)",
+            "status_string": "7/3:\t\t \u001b[1;91m10\u001b[0m,\t \u001b[0;36mGold & Dragon\u001b[0m (7/17)",
             "start_date": "2018-01-01"
         },
         {
@@ -91,14 +91,12 @@
             "repo": "slot-jackpot7sfreegames",
             "slug": "Jackpot 7s Free Games with DUG Mystery JP",
             "devs": [
-                "sotiri.karasoulos",
-                "Sandra.Jhee",
                 "robert.leisle"
             ],
-            "num_open_issues": 31,
+            "num_open_issues": 2,
             "deploy_date": "7/17",
             "launch_date": "7/31",
-            "status_string": "7/17:\t\t \u001b[1;91m31\u001b[0m,\t \u001b[0;36mJackpot 7s Free Games with DUG Mystery JP\u001b[0m (7/31)",
+            "status_string": "7/17:\t\t \u001b[0;33m2\u001b[0m,\t \u001b[0;36mJackpot 7s Free Games with DUG Mystery JP\u001b[0m (7/31)",
             "start_date": "2018-05-16"
         },
         {
@@ -117,12 +115,13 @@
             "repo": "slot-moneystorm",
             "slug": "Money Storm ",
             "devs": [
-                "shuo-wei.chang"
+                "shuo-wei.chang",
+                "Shaan.Amin"
             ],
-            "num_open_issues": 5,
+            "num_open_issues": 55,
             "deploy_date": "8/21",
             "launch_date": "8/28",
-            "status_string": "8/21:\t\t \u001b[0;33m5\u001b[0m,\t \u001b[0;36mMoney Storm \u001b[0m (8/28)",
+            "status_string": "8/21:\t\t \u001b[1;91m55\u001b[0m,\t \u001b[0;36mMoney Storm \u001b[0m (8/28)",
             "start_date": "2018-01-01"
         },
         {
@@ -130,13 +129,12 @@
             "repo": "slot-hotrolldoublegold",
             "slug": "Hot Roll Double Gold (KSG)",
             "devs": [
-                "Gwendolyn.Hart",
                 "abhinav.sagar"
             ],
-            "num_open_issues": 4,
+            "num_open_issues": 6,
             "deploy_date": "8/27",
             "launch_date": "9/11",
-            "status_string": "8/27:\t\t \u001b[0;33m4\u001b[0m,\t \u001b[0;36mHot Roll Double Gold (KSG)\u001b[0m (9/11)",
+            "status_string": "8/27:\t\t \u001b[0;33m6\u001b[0m,\t \u001b[0;36mHot Roll Double Gold (KSG)\u001b[0m (9/11)",
             "start_date": "2018-06-04"
         },
         {
@@ -152,14 +150,14 @@
         },
         {
             "id": "GCD-12122",
-            "repo": "",
+            "repo": "slot-wheeloffortunetriplewilddiamonds",
             "slug": "WOF Triple Wild Diamond",
             "devs": [],
-            "num_open_issues": 0,
+            "num_open_issues": 5,
             "deploy_date": "9/24",
             "launch_date": "10/9",
-            "status_string": "9/24:\t\t \u001b[0;32m0\u001b[0m,\t \u001b[0;36mWOF Triple Wild Diamond\u001b[0m (10/9)",
-            "start_date": "2018-05-16"
+            "status_string": "9/24:\t\t \u001b[0;33m5\u001b[0m,\t \u001b[0;36mWOF Triple Wild Diamond\u001b[0m (10/9)",
+            "start_date": "2018-07-23"
         },
         {
             "id": "GCD-10364",
