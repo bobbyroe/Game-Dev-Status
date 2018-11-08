@@ -31,7 +31,7 @@ function getSlotsData() {
 		};
 		let opts = {
 			headers: {
-				"Authorization": "Basic Ym9iYnkucm9lOlphbnNoaW5NQE4w",
+				"Authorization": "Basic %%hash%%",
 				"Content-Type": "application/json"
 			},
 			host: 'confluence.doubledowninteractive.com',
